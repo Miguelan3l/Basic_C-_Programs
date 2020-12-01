@@ -1,0 +1,13 @@
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\obj\Debug\netcoreapp3.1\welcomeScreen.csprojAssemblyReference.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\obj\Debug\netcoreapp3.1\welcomeScreen.AssemblyInfoInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\obj\Debug\netcoreapp3.1\welcomeScreen.AssemblyInfo.cs
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\obj\Debug\netcoreapp3.1\welcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\bin\Debug\netcoreapp3.1\welcomeScreen.exe
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\bin\Debug\netcoreapp3.1\welcomeScreen.deps.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\bin\Debug\netcoreapp3.1\welcomeScreen.runtimeconfig.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\bin\Debug\netcoreapp3.1\welcomeScreen.runtimeconfig.dev.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\bin\Debug\netcoreapp3.1\welcomeScreen.dll
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\bin\Debug\netcoreapp3.1\welcomeScreen.pdb
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\obj\Debug\netcoreapp3.1\welcomeScreen.dll
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\obj\Debug\netcoreapp3.1\welcomeScreen.pdb
+C:\Users\Pelon\Desktop\Basic_C#_Programs\welcomeScreen\welcomeScreen\obj\Debug\netcoreapp3.1\welcomeScreen.genruntimeconfig.cache
