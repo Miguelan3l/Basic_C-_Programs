@@ -1,0 +1,13 @@
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\bin\Debug\netcoreapp3.1\basic approval program for car insurance.exe
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\bin\Debug\netcoreapp3.1\basic approval program for car insurance.deps.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\bin\Debug\netcoreapp3.1\basic approval program for car insurance.runtimeconfig.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\bin\Debug\netcoreapp3.1\basic approval program for car insurance.runtimeconfig.dev.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\bin\Debug\netcoreapp3.1\basic approval program for car insurance.dll
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\bin\Debug\netcoreapp3.1\basic approval program for car insurance.pdb
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\obj\Debug\netcoreapp3.1\basic approval program for car insurance.csprojAssemblyReference.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\obj\Debug\netcoreapp3.1\basic approval program for car insurance.AssemblyInfoInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\obj\Debug\netcoreapp3.1\basic approval program for car insurance.AssemblyInfo.cs
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\obj\Debug\netcoreapp3.1\basic approval program for car insurance.csproj.CoreCompileInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\obj\Debug\netcoreapp3.1\basic approval program for car insurance.dll
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\obj\Debug\netcoreapp3.1\basic approval program for car insurance.pdb
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\basic approval program for car insurance\obj\Debug\netcoreapp3.1\basic approval program for car insurance.genruntimeconfig.cache

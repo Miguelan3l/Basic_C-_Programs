@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\welcomeScreen\\welcomeScreen\\welcomeScreen.csproj": {}
+    "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\welcomeScreen\\welcomeScreen\\welcomeScreen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\welcomeScreen\\welcomeScreen\\welcomeScreen.csproj": {
+    "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\welcomeScreen\\welcomeScreen\\welcomeScreen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\welcomeScreen\\welcomeScreen\\welcomeScreen.csproj",
+        "projectUniqueName": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\welcomeScreen\\welcomeScreen\\welcomeScreen.csproj",
         "projectName": "welcomeScreen",
-        "projectPath": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\welcomeScreen\\welcomeScreen\\welcomeScreen.csproj",
+        "projectPath": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\welcomeScreen\\welcomeScreen\\welcomeScreen.csproj",
         "packagesPath": "C:\\Users\\Pelon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\welcomeScreen\\welcomeScreen\\obj\\",
+        "outputPath": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\welcomeScreen\\welcomeScreen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pelon\\AppData\\Roaming\\NuGet\\NuGet.Config",

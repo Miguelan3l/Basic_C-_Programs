@@ -1,0 +1,13 @@
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\bin\Debug\netcoreapp3.1\Daily report.exe
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\bin\Debug\netcoreapp3.1\Daily report.deps.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\bin\Debug\netcoreapp3.1\Daily report.runtimeconfig.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\bin\Debug\netcoreapp3.1\Daily report.runtimeconfig.dev.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\bin\Debug\netcoreapp3.1\Daily report.dll
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\bin\Debug\netcoreapp3.1\Daily report.pdb
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\obj\Debug\netcoreapp3.1\Daily report.csprojAssemblyReference.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\obj\Debug\netcoreapp3.1\Daily report.AssemblyInfoInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\obj\Debug\netcoreapp3.1\Daily report.AssemblyInfo.cs
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\obj\Debug\netcoreapp3.1\Daily report.csproj.CoreCompileInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\obj\Debug\netcoreapp3.1\Daily report.dll
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\obj\Debug\netcoreapp3.1\Daily report.pdb
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Daily report\obj\Debug\netcoreapp3.1\Daily report.genruntimeconfig.cache
