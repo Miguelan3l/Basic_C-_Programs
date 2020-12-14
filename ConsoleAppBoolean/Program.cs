@@ -29,6 +29,7 @@ namespace ConsoleAppBoolean
             {
                 result = table * s;
                 Console.WriteLine("{0}*{1}={2}", table, s, result);
+                System.Threading.Thread.Sleep(TimeSpan.FromSeconds(1));
                 s++;
             }
             while (s <= 10);
