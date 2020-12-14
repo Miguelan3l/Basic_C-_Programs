@@ -1,0 +1,13 @@
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\bin\Debug\netcoreapp3.1\ConsoleAppBoolean.exe
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\bin\Debug\netcoreapp3.1\ConsoleAppBoolean.deps.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\bin\Debug\netcoreapp3.1\ConsoleAppBoolean.runtimeconfig.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\bin\Debug\netcoreapp3.1\ConsoleAppBoolean.runtimeconfig.dev.json
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\bin\Debug\netcoreapp3.1\ConsoleAppBoolean.dll
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\bin\Debug\netcoreapp3.1\ConsoleAppBoolean.pdb
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\obj\Debug\netcoreapp3.1\ConsoleAppBoolean.csprojAssemblyReference.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\obj\Debug\netcoreapp3.1\ConsoleAppBoolean.AssemblyInfoInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\obj\Debug\netcoreapp3.1\ConsoleAppBoolean.AssemblyInfo.cs
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\obj\Debug\netcoreapp3.1\ConsoleAppBoolean.csproj.CoreCompileInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\obj\Debug\netcoreapp3.1\ConsoleAppBoolean.dll
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\obj\Debug\netcoreapp3.1\ConsoleAppBoolean.pdb
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppBoolean\obj\Debug\netcoreapp3.1\ConsoleAppBoolean.genruntimeconfig.cache

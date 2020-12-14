@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pelon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pelon\\.nuget\\packages"
+    ]
+  }
+}
