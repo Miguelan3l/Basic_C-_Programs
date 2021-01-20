@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\console application\\console application.csproj": {}
+    "C:\\Users\\Pelon\\source\\repos\\Arraystrings\\Arraystrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\console application\\console application.csproj": {
+    "C:\\Users\\Pelon\\source\\repos\\Arraystrings\\Arraystrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\console application\\console application.csproj",
-        "projectName": "console application",
-        "projectPath": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\console application\\console application.csproj",
+        "projectUniqueName": "C:\\Users\\Pelon\\source\\repos\\Arraystrings\\Arraystrings.csproj",
+        "projectName": "Arraystrings",
+        "projectPath": "C:\\Users\\Pelon\\source\\repos\\Arraystrings\\Arraystrings.csproj",
         "packagesPath": "C:\\Users\\Pelon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pelon\\Desktop\\Basic_C#_Programs\\Basic_C-_Programs\\console application\\obj\\",
+        "outputPath": "C:\\Users\\Pelon\\source\\repos\\Arraystrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pelon\\AppData\\Roaming\\NuGet\\NuGet.Config",

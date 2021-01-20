@@ -1,0 +1,13 @@
+C:\Users\Pelon\source\repos\Arraystrings\bin\Debug\netcoreapp3.1\Arraystrings.exe
+C:\Users\Pelon\source\repos\Arraystrings\bin\Debug\netcoreapp3.1\Arraystrings.deps.json
+C:\Users\Pelon\source\repos\Arraystrings\bin\Debug\netcoreapp3.1\Arraystrings.runtimeconfig.json
+C:\Users\Pelon\source\repos\Arraystrings\bin\Debug\netcoreapp3.1\Arraystrings.runtimeconfig.dev.json
+C:\Users\Pelon\source\repos\Arraystrings\bin\Debug\netcoreapp3.1\Arraystrings.dll
+C:\Users\Pelon\source\repos\Arraystrings\bin\Debug\netcoreapp3.1\Arraystrings.pdb
+C:\Users\Pelon\source\repos\Arraystrings\obj\Debug\netcoreapp3.1\Arraystrings.csprojAssemblyReference.cache
+C:\Users\Pelon\source\repos\Arraystrings\obj\Debug\netcoreapp3.1\Arraystrings.AssemblyInfoInputs.cache
+C:\Users\Pelon\source\repos\Arraystrings\obj\Debug\netcoreapp3.1\Arraystrings.AssemblyInfo.cs
+C:\Users\Pelon\source\repos\Arraystrings\obj\Debug\netcoreapp3.1\Arraystrings.csproj.CoreCompileInputs.cache
+C:\Users\Pelon\source\repos\Arraystrings\obj\Debug\netcoreapp3.1\Arraystrings.dll
+C:\Users\Pelon\source\repos\Arraystrings\obj\Debug\netcoreapp3.1\Arraystrings.pdb
+C:\Users\Pelon\source\repos\Arraystrings\obj\Debug\netcoreapp3.1\Arraystrings.genruntimeconfig.cache

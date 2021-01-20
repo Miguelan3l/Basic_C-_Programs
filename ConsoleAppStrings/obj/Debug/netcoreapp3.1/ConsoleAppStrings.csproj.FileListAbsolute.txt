@@ -1,0 +1,4 @@
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppStrings\obj\Debug\netcoreapp3.1\ConsoleAppStrings.csprojAssemblyReference.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppStrings\obj\Debug\netcoreapp3.1\ConsoleAppStrings.AssemblyInfoInputs.cache
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppStrings\obj\Debug\netcoreapp3.1\ConsoleAppStrings.AssemblyInfo.cs
+C:\Users\Pelon\Desktop\Basic_C#_Programs\Basic_C-_Programs\ConsoleAppStrings\obj\Debug\netcoreapp3.1\ConsoleAppStrings.csproj.CoreCompileInputs.cache
