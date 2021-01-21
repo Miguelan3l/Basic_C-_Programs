@@ -1,0 +1,13 @@
+C:\Users\Pelon\source\repos\StringArray\bin\Debug\netcoreapp3.1\StringArray.exe
+C:\Users\Pelon\source\repos\StringArray\bin\Debug\netcoreapp3.1\StringArray.deps.json
+C:\Users\Pelon\source\repos\StringArray\bin\Debug\netcoreapp3.1\StringArray.runtimeconfig.json
+C:\Users\Pelon\source\repos\StringArray\bin\Debug\netcoreapp3.1\StringArray.runtimeconfig.dev.json
+C:\Users\Pelon\source\repos\StringArray\bin\Debug\netcoreapp3.1\StringArray.dll
+C:\Users\Pelon\source\repos\StringArray\bin\Debug\netcoreapp3.1\StringArray.pdb
+C:\Users\Pelon\source\repos\StringArray\obj\Debug\netcoreapp3.1\StringArray.csprojAssemblyReference.cache
+C:\Users\Pelon\source\repos\StringArray\obj\Debug\netcoreapp3.1\StringArray.AssemblyInfoInputs.cache
+C:\Users\Pelon\source\repos\StringArray\obj\Debug\netcoreapp3.1\StringArray.AssemblyInfo.cs
+C:\Users\Pelon\source\repos\StringArray\obj\Debug\netcoreapp3.1\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\Pelon\source\repos\StringArray\obj\Debug\netcoreapp3.1\StringArray.dll
+C:\Users\Pelon\source\repos\StringArray\obj\Debug\netcoreapp3.1\StringArray.pdb
+C:\Users\Pelon\source\repos\StringArray\obj\Debug\netcoreapp3.1\StringArray.genruntimeconfig.cache
